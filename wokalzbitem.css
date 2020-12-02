@@ -1,0 +1,52 @@
+.menu {
+    padding: 10px 40px;
+    background-color: darkslategray;
+    border-radius: 100px;
+    margin-top: 10px;
+    display: inline;
+    margin-right: 20vw;
+    float: left;
+    margin-left: 30px;
+    font-family: Arial;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+div {
+    position: fixed;
+    
+    
+}
+
+body {
+    background-image: url(2paczki.png);
+    width: 100%;
+    height: 100v%;
+}
+
+img {
+    
+    float: left;
+    width: 7%;
+    height: 7%;
+    margin-left: 30px;
+    border-radius: 100px;
+    transition: 1s ease;
+}
+
+img:hover {
+    opacity: 0.7;
+    width: 8%;
+    height: 8%;
+}
+
+#wybrane {
+    background-color: firebrick;
+    
+}
+
+.menu:hover {
+    background-color: firebrick;
+    
+}
