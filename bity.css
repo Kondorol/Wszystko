@@ -57,11 +57,11 @@ img:hover {
     margin-right: 10vw;
     
 }
-
-.Nowe {
+h1 {
     font-size: 40px;
     padding: 10px 40px;
     background-color: darkslategray;
     border-radius: 100px;
     font-family: Arial;
+    color: white;
 }
